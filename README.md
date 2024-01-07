@@ -1,6 +1,6 @@
-# PythonPlotCode: Data Visualization Project
+# DataVizPython: Data Visualization Project
 
-Welcome to the "PythonPlotCode" repository, a comprehensive showcase of data visualization techniques and analyses. This repository is part of a university project, demonstrating a range of visualizations, each tailored to meet specific educational objectives.
+Welcome to the "DataVizPython" repository, a comprehensive showcase of data visualization techniques and analyses. This repository is part of a university project, demonstrating a range of visualizations, each tailored to meet specific educational objectives.
 
 ## Project Overview
 
