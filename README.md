@@ -15,3 +15,11 @@ This project aims to explore the art and science of data visualization. It inclu
 5. **Specialized Visualizations**: Includes a data map and a visualization using Swiss Open Data.
 6. **Interactive Visualization**: A showcase of an interactive data visualization.
 
+---
+## Contact
+
+- Email: gian.marco.oddo@usi.ch
+- LinkedIn: https://www.linkedin.com/in/gian-marco-oddo-8a6b4b207/
+- GitHub: https://github.com/GianMarcoOddo
+> Feel free to reach out for any questions or further clarification on this code.
+---
